@@ -1,0 +1,17 @@
+.deployment-progress-container {
+    margin:auto;
+    width: 30%;
+    border:4px solid rgb(90, 88, 88);
+    border-radius: 25px;
+    padding: 7px;
+    background-color: rgb(218, 207, 207);
+    margin-top: 10px;
+}
+
+.deployment-progress-list-item.red {
+    color: red;
+}
+
+.deployment-progress-list-item.green {
+    color: green;
+}

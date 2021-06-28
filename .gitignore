@@ -1,0 +1,11 @@
+node_modules
+
+web\.cache
+web\dist
+web\node_modules
+
+coverage.out
+zid
+zid.db
+__debug_bin
+.vscode

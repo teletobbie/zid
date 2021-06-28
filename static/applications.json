@@ -1,0 +1,30 @@
+{
+    "created": "2020-12-03 23:59:15",
+    "applications": [
+      {
+        "name": "Application 0",
+        "sid": "5978",
+        "support_group": "Application desk"
+      },
+      {
+        "name": "Application 1",
+        "sid": "6000",
+        "support_group": "Application desk"
+      },
+      {
+        "name": "Application 2",
+        "sid": "7000",
+        "support_group": "Application desk"
+      },
+      {
+        "name": "Application 3",
+        "sid": "8000",
+        "support_group": "Application desk"
+      },
+      {
+        "name": "Application 4",
+        "sid": "9000",
+        "support_group": "Application desk"
+      }
+    ]
+  }

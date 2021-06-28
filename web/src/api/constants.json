@@ -1,0 +1,62 @@
+{
+    "BASE_URL": "http://localhost",
+    "ENDPOINTS": {
+        "LOGIN": {
+            "METHOD": "POST",
+            "PATH": "auth/login"
+        },
+        "DEPLOY_COMPONENT": {
+            "METHOD": "POST",
+            "PATH": "component/deploy"
+        },
+        "APPLICATIONLIST": {
+            "METHOD": "GET",
+            "PATH": "application/list"
+        },
+        "INSTANCE_STATUS": {
+            "METHOD": "GET",
+            "PATH": "instance/status/"
+        },
+        "USER": {
+            "METHOD":"GET",
+            "PATH": "user"
+        },
+        "PROJECT": {
+            "METHOD":"GET",
+            "PATH": "project/"
+        },
+        "PROJECTLIST": {
+            "METHOD": "GET",
+            "PATH": "project/list"
+        },
+        "DIAGRAMSBYPROJECT": {
+            "METHOD": "GET",
+            "PATH": "project/diagrams/"
+        },
+        "CREATE_PROJECT": {
+            "METHOD": "POST",
+            "PATH": "project/create"
+        },
+        "DELETE_PROJECT": {
+            "METHOD": "DELETE",
+            "PATH": "project/delete/"
+        },
+        "CREATE_DIAGRAM": {
+            "METHOD":"POST",
+            "PATH": "diagram/create"
+        },
+        "DIAGRAM": {
+            "METHOD":"GET",
+            "PATH": "diagram/"
+        },
+        "DIAGRAM_UPDATE": {
+            "METHOD":"PATCH",
+            "PATH": "diagram/update"
+        },
+        "DIAGRAM_DELETE": {
+            "METHOD":"DELETE",
+            "PATH": "diagram/delete/"
+        }
+    },
+    "PORT": 10000
+}

@@ -1,0 +1,76 @@
+{
+    "VLANS": [
+        {
+            "VLAN": "0000",
+            "IP_SUBNET": "10.0.0.1/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "RED",
+            "KAVEL": "BSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Production",
+            "LOCATION": "Aalsmeer",
+            "SITE": "AAM1"
+        },
+        {
+            "VLAN": "0001",
+            "IP_SUBNET": "10.0.0.2/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "ORANGE",
+            "KAVEL": "OSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Acceptatie",
+            "LOCATION": "Amsterdam",
+            "SITE": "AAM2"
+        },
+        {
+            "VLAN": "0002",
+            "IP_SUBNET": "10.0.0.3/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "GREEN",
+            "KAVEL": "BSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Production",
+            "LOCATION": "Rotterdam",
+            "SITE": "AAM3"
+        },
+        {
+            "VLAN": "0003",
+            "IP_SUBNET": "10.0.0.4/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "RED",
+            "KAVEL": "BSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Production",
+            "LOCATION": "Aalsmeer",
+            "SITE": "AAM1"
+        },
+        {
+            "VLAN": "0004",
+            "IP_SUBNET": "10.0.0.5/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "RED",
+            "KAVEL": "BSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Production",
+            "LOCATION": "Aalsmeer",
+            "SITE": "AAM1"
+        },
+        {
+            "VLAN": "0005",
+            "IP_SUBNET": "10.0.0.6/25",
+            "VLAN_NAME": "VLAN_00",
+            "ZONE": "RED",
+            "KAVEL": "BSS",
+            "MSP": "Cognizant",
+            "NETWORK": "Dual 2.3",
+            "ENVIRONMENT": "Production",
+            "LOCATION": "Aalsmeer",
+            "SITE": "AAM1"
+        }
+    ]
+}

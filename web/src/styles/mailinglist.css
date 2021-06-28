@@ -1,0 +1,10 @@
+.ml-mail-show-label {
+    padding: 3px;
+}
+
+.ml-delete-icon {
+    vertical-align: middle;
+    color: red;
+    cursor:pointer;
+    margin-left: 1px;
+}

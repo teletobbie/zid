@@ -1,0 +1,53 @@
+[
+  {
+      "component": {
+          "title": "Virtual machine",
+          "name": "VM"
+      },
+      "inputs": {
+          "serverRole": "app",
+          "os": "linuxflatcar",
+          "platform": "vipernext",
+          "location": "Amsterdam",
+          "msp": "Cognizant",
+          "zone": "red",
+          "networklot": "BSS",
+          "frontendSubnet": "0.0.0.0/25",
+          "cpu": "2",
+          "memory": "2",
+          "VMname": "hola1",
+          "appsearch": "ann",
+          "storage": 0,
+          "applicationName": "hola"
+      },
+      "inputErrors": {},
+      "id": "UwLfQBijlijMqKOCeWdI",
+      "next": [
+          {
+              "component": {
+                  "title": "Virtual machine",
+                  "name": "VM"
+              },
+              "inputs": {
+                  "serverRole": "app",
+                  "os": "linuxflatcar",
+                  "platform": "vipernext",
+                  "location": "Amsterdam",
+                  "msp": "Cognizant",
+                  "zone": "red",
+                  "networklot": "BSS",
+                  "frontendSubnet": "0.0.0.0/25",
+                  "cpu": "2",
+                  "memory": "2",
+                  "VMname": "hola2",
+                  "appsearch": "ann",
+                  "storage": 0,
+                  "applicationName": "hola"
+              },
+              "inputErrors": {},
+              "id": "1hzFLlSX6T7B3q8IwcpX",
+              "next": []
+          }
+      ]
+  }
+]
