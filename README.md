@@ -4,7 +4,6 @@ A web-design tool to create, edit and deploy deployment diagrams using the Zeebe
 ## Prerequisites
 - Install [Golang](https://golang.org/dl/)
 - Install [Node](https://nodejs.org/en/download/)
-- Correct rights in [IAM](https://iamportal.kpnnet.org/iam/scripts/iam/)
 
 ## Run in Docker
 Run this project in Docker locally. 
